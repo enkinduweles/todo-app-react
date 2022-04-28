@@ -1,5 +1,5 @@
 <h1 align="center">To Do App</h1>
-<p align="center">Este projeto foi criado para o desafio do <strong> Programa Ignite da Rocketseat,</strong> através de um projeto base as atividades da aplicação são criadas</p>
+<p align="center">Este projeto foi criado para o desafio do <strong> Programa Ignite da Rocketseat,</strong> através de um projeto base as atividades da aplicação foram criadas</p>
 
 <p align="center">Organize suas tarefas do dia a dia com uma to do list.</p>
 
